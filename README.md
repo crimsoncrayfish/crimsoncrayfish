@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @crimsoncrayfish
-- 👀 I’m interested in game development.
-- 🌱 I’m currently learning unity game development.
-- 📫 How to reach me...
+- I like picking up new technologies
+- Most of my experience has been working in C# and Angular, building web apps
+- 🌱 I’m currently workong with golang and htmx. Im also looking at rust and zig
 
 <!---
 crimsoncrayfish/crimsoncrayfish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
